@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Heluuu Lạc!',
     introDesc: `Trên thế giới có hơn 7 tỷ nụ cười
            Nhưng mà nụ cười của Bún nà đẹp nhất 🙊`,
-    btnIntro: 'hihi'
+    btnIntro: 'hihi’,
     title: 'Chắc đang tủm tỉm cười đây mà 😌 nghiêm túc điiii',
     desc: 'Bún xuynk đúng khumm 👀 ',
     btnYes: 'Lại là điều hiển nhiên 😤',
@@ -12,5 +12,5 @@ const CONFIG = {
     reply: 'Nhưng mà Bún đáng iu nhất 😚',
     mess: 'Bún biết mà 😌. Điều quá nà hiển nhiên lunn',
     messDesc: 'Đến đoạn này chắc đang cười ngoạc mồm ra rồi đúng khongg 😌 ',
-    btnAccept: 'Đúng lun.',
+    btnAccept: 'Đúng lun.',}
     
