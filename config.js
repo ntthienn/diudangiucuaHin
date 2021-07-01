@@ -1,8 +1,8 @@
 const CONFIG = {
     introTitle: 'Heluuu Lạc!',
-    introDesc: ‘Trên thế giới có hơn 7 tỷ nụ cười
-           Nhưng mà nụ cười của Bún nà đẹp nhất 🙊’,
-    btnIntro: 'hihi’,
+    introDesc: 'Trên thế giới có hơn 7 tỷ nụ cười
+           Nhưng mà nụ cười của Bún nà đẹp nhất 🙊',
+    btnIntro: 'hihi',
     title: 'Chắc đang tủm tỉm cười đây mà 😌 nghiêm túc điiii',
     desc: 'Bún xuynk đúng khumm 👀 ',
     btnYes: 'Lại là điều hiển nhiên 😤',
