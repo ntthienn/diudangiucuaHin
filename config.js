@@ -12,7 +12,7 @@ const CONFIG = {
     reply: 'Nhưng mà Bún đáng iu nhất 😚',
     mess: 'Bún biết mà 😌. Điều quá nà hiển nhiên lunn',
     messDesc: 'Đến đoạn này chắc đang cười ngoạc mồm ra rồi đúng khongg 😌 ',
-    btnAccept: 'Đúng lun.'
+    btnAccept: 'Đúng lun.',
     messLink: 'https://m.facebook.com/hien.ntt.9237'
 }
     
